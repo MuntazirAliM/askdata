@@ -90,10 +90,12 @@ python app/check_security.py
 
 ## Roadmap
 
-- [x] Phase 1 to 3: database, fictional data, row-level security
-- [x] Phase 4: validated read-only SQL tool
-- [x] Phase 5: agent with traceable, number-checked answers
-- [ ] Phase 6: scheduled reports and anomaly detection
-- [ ] Phase 7: API and chat interface
-- [ ] Phase 8: evaluation against the planted stories
-- [ ] Phase 9: deployment
+## Roadmap
+
+- Phase 1 to 3: database, fictional data, row-level security
+- Phase 4: validated read-only SQL tool
+- Phase 5: agent with traceable, number-checked answers
+- Phase 6: scheduled reports and anomaly detection
+- Phase 7: API and chat interface
+- Phase 8: evaluation against the planted stories
+- Phase 9: deployment
